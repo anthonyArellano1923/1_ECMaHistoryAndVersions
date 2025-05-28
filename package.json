@@ -1,0 +1,23 @@
+{
+  "name": "1_ecmahistoryandversions",
+  "version": "1.0.0",
+  "description": "This is an educational project to learn about ECMA and it's versions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyArellano1923/1_ECMaHistoryAndVersions.git"
+  },
+  "keywords": [
+    "javascript",
+    "ECMAScript"
+  ],
+  "author": "Anthony Arellano -anthonyarellano70@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anthonyArellano1923/1_ECMaHistoryAndVersions/issues"
+  },
+  "homepage": "https://github.com/anthonyArellano1923/1_ECMaHistoryAndVersions#readme"
+}
