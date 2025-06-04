@@ -16,6 +16,7 @@
   ],
   "author": "Anthony Arellano -anthonyarellano70@gmail.com",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/anthonyArellano1923/1_ECMaHistoryAndVersions/issues"
   },
